@@ -1,6 +1,6 @@
 <template>
   <div class="h-[650px]">
-    <div class="w-full h-[320px] text-white text-2xl">
+    <div class="w-full h-[320px] text-white text-2xl mt-10">
       <div class="w-[500px] mt-30 ml-10">
         <p class="ml-10">CONTACT ME</p>
         <div class="flex mt-10">

@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="flex justify-between w-full mt-20">
-      <div class="ml-10  w-[450px]">
+      <div class="ml-10 w-[450px]">
         <p class="text-4xl mb-2 text-blue-600">Skills</p>
         <ul class="list-disc pl-5 text-blue-200">
           <li>Html</li>
@@ -28,7 +28,7 @@
           <li>Vue</li>
         </ul>
       </div>
-      <div class="text-blue-200  w-[700px] ml-20 mr-20 ">
+      <div class="text-blue-200 w-[700px] ml-20 mr-20">
         <p class="text-4xl mb-2 text-blue-600">Languages</p>
         <ul class="list-disc pl-5 text-blue-200">
           <li>Turkmen</li>
